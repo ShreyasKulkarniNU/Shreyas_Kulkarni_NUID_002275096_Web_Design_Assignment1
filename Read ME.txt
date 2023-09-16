@@ -1,0 +1,32 @@
+Read ME 
+Favicon - I have used the <link rel="icon"> tag, commonly known as the "favicon" tag, is used in HTML to specify the small icon or image that appears in the browser tab when someone visits a website. It's like a tiny logo for your website that helps users easily identify and locate your site when they have multiple tabs open.
+
+Table- I used the table tag to display tennis play styles. The <table> tag in HTML is like a digital table where you can organize information into rows and columns, just like a spreadsheet or a grid. It's used to display data neatly and make it easier for people to read and understand.
+
+Form - I used the form tag to get tennis players inquires.  The <form> tag in HTML is like a container or a box where you put different elements like text fields, buttons, and checkboxes to create things like contact forms, search bars, or surveys on a website. When you fill out these forms and click a button like "Submit," the information you entered is sent to a server for processing, like sending an email or searching for something on the internet. So, the <form> tag helps make all these interactive things on websites possible.
+
+Images - I used tennis images in img tag. The <img> tag is used to display images on a web page. It allows you to insert pictures, graphics, or illustrations into your web content
+
+Hyperlink - Used it to navigate.  The hyperlink tag in HTML, represented by the <a> element, is like a digital signpost or a clickable link on a webpage. It's used to create connections between web pages and resources on the internet. When you click on a hyperlink, it takes you to another webpage or resource, allowing you to navigate the web and access different content. It's similar to clicking on links or buttons to move around when you're reading a digital book or exploring an online map. The <a> tag is how web pages are connected together, making the web interactive and interconnected.
+
+Button - The <button> tag in HTML is like a virtual button on a webpage that you can click or tap, just like a physical button on a computer or a touchscreen device. When you interact with it (by clicking or tapping), it can trigger actions or events, such as submitting a form, opening a new page, or performing some other function on a website. It's a way to make websites interactive and allows users to perform actions with a simple click, like pushing a real-world button.
+
+audio - I used it for tennis music.  The <audio> tag in HTML is like a built-in music or sound player for web pages. It allows you to embed audio files (like music tracks, podcasts, or sound effects) directly into a webpage so that visitors can listen to them. It's similar to having a small radio or music player on a website. You can control the playback, volume, and other settings to create an audio experience for your website visitors without needing an external player or app.
+
+video - I have used tennis videos. <video> tag in HTML is like a built-in video player for web pages. It allows you to embed videos directly into a webpage so that visitors can watch them. It's similar to having a video player on a website, like YouTube or Netflix. You can control the playback, volume, and other settings to create a video experience for your website visitors without needing an external player or app. This tag makes it easy to share videos on the web.
+
+header - Header tag for my tennis webiste is been added. <header> tag in HTML is like the title or introduction at the top of a document. It's used to define a section of a webpage that typically contains things like the website's logo, navigation menu, or a catchy title
+
+footer - The <footer> tag is used to define a footer section for a webpage. The footer typically appears at the bottom of the webpage and contains information about the webpage itself or additional information related to the content.
+
+summary -  <summary> tag in HTML is used in conjunction with the <details> element to create an interactive disclosure widget. When you use <details> along with <summary>, you can create a collapsible section on a webpage.
+<details> is like a container that can be expanded or collapsed.
+<summary> is like a label or title for that container.
+When the webpage loads, the content within the <details> element is initially hidden. Users can click on the <summary> element, and it acts like a toggle switch, revealing or hiding the content within the <details> container. This can be useful for creating expandable sections of content on a webpage, such as FAQ sections where users can click to reveal answers to questions.	
+
+menu -  <menu> tag in HTML has been deprecated and is not commonly used in modern web development. It was introduced in HTML5 but has limited support in browsers, and its functionality has largely been superseded by other HTML elements and CSS for creating menus and navigation.
+
+tel for contact information -  In HTML, you can use the <a> (anchor) tag to create clickable links for various types of contact information, including telephone numbers. To make a telephone number clickable for users on mobile devices, you can use the "tel" URI scheme <a href="tel:+1234567890">Call us at +1 (234) 567-890</a>
+
+mailto for contact information - In HTML, you can create a clickable email link using the <a> (anchor) tag with the "mailto" URI scheme. This allows users to send an email to a specified email address when they click the link.
+<a href="mailto:contact@example.com">Send us an email</a>
