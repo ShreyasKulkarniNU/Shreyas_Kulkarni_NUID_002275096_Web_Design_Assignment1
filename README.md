@@ -29,7 +29,17 @@ When the webpage loads, the content within the <details> element is initially hi
 
 menu -  <menu> tag in HTML has been deprecated and is not commonly used in modern web development. It was introduced in HTML5 but has limited support in browsers, and its functionality has largely been superseded by other HTML elements and CSS for creating menus and navigation.
 
+
+
+
 tel for contact information -  In HTML, you can use the <a> (anchor) tag to create clickable links for various types of contact information, including telephone numbers. To make a telephone number clickable for users on mobile devices, you can use the "tel" URI scheme <a href="tel:+1234567890">Call us at +1 (234) 567-890</a>
 
 mailto for contact information - In HTML, you can create a clickable email link using the <a> (anchor) tag with the "mailto" URI scheme. This allows users to send an email to a specified email address when they click the link.
 <a href="mailto:contact@example.com">Send us an email</a>
+![Scrnsht1](https://github.com/ShreyasKulkarniNU/Shreyas_Kulkarni_NUID_002275096_Web_Design_Assignment1/assets/144962209/afb09e5a-e496-4cd5-9765-9445572f5f10)
+
+![scrn2](https://github.com/ShreyasKulkarniNU/Shreyas_Kulkarni_NUID_002275096_Web_Design_Assignment1/assets/144962209/25724916-0098-46a8-9d0e-3fc5dabb352f)
+
+![scrn3](https://github.com/ShreyasKulkarniNU/Shreyas_Kulkarni_NUID_002275096_Web_Design_Assignment1/assets/144962209/2254bee0-6cd5-4d6d-a025-c7ac6c57ff3a)
+
+
